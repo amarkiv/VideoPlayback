@@ -1,0 +1,17 @@
+[
+	{
+		"title":"My Video",
+		"path":"video/MyVideo.mp4",
+        "description":"I lovesies my video."
+	},
+    {
+		"title":"Razorpalm",
+		"path":"video/razorpalm.mp4",
+        "description":"After Effects composition. Audio: Shivervein - Razorpalm"
+	},
+    {
+		"title":"Ernesto",
+		"path":"video/ernesto.mp4",
+        "description":"Hurricane Enesto - in the Carribean."
+	}
+]
